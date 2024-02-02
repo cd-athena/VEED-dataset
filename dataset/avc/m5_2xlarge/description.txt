@@ -1,0 +1,11 @@
+Instance:
+	Region=eu-central-1
+	Type=m5.2xlarge
+	vCPUs=8
+	Cost ($/s)=0.000106
+CPU:
+	Model=Intel(R) Xeon(R) Platinum 8259CL CPU @ 2.50GHz
+	Number of Cores=24.0
+	TDP=210.0 W
+Encoding:
+	Preset=medium

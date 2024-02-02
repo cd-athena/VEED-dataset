@@ -1,0 +1,11 @@
+Instance:
+	Region=eu-central-1
+	Type=c5.xlarge
+	vCPUs=4
+	Cost ($/s)=0.000047
+CPU:
+	Model=Intel(R) Xeon(R) Platinum 8124M CPU @ 3.00GHz
+	Number of Cores=18.0
+	TDP=240.0 W
+Encoding:
+	Preset=medium

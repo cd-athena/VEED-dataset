@@ -1,0 +1,11 @@
+Instance:
+	Region=eu-central-1
+	Type=c5.large
+	vCPUs=2
+	Cost ($/s)=0.000023
+CPU:
+	Model=Intel(R) Xeon(R) Platinum 8275CL CPU @ 3.00GHz
+	Number of Cores=24.0
+	TDP=240.0 W
+Encoding:
+	Preset=medium
